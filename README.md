@@ -3,16 +3,14 @@
 I'm Aditya Shibu, better known online as **Vic** or **Vic-41148**, a tech enthusiast currently studying at **KR Mangalam University Gurgaon**. I love exploring different technologies, whether it's **LLM security, game development, Discord bots**, or anything that sparks my curiosity.
 
 I enjoy solving problems, building projects, and continuously learning new things. Feel free to check out my repositories and see what I'm working on! 🚀
-
 ---
 
-## 🔥 Current Focus: Secure LLM Inference Platform
+## 🔥 Current Focus: Somn Core Engine
+Refining the **accelerometer-based classification model** to improve REM vs. Light sleep detection. Currently optimizing the weighted scoring algorithm for neurodivergent sleep patterns (ADHD/ASD) to reduce "consistency" penalties that don't reflect actual rest quality.
 
-Building a **FastAPI-based security gateway** to defend local LLM backends from prompt injections, recursive logic bombs, and resource exhaustion attacks. Running 24/7 on my repurposed 2015 Dell Inspiron home server.
-
-**Tech Stack:** FastAPI | Python | Tailscale | Cloudflare DNS | Gitea | Ubuntu Server  
+**Tech Stack:** Kotlin | Jetpack Compose | Room | Coroutines | Hilt  
 **Status:** Active Development 🚀  
-🔗 [GitHub Repo](https://github.com/Vic-41148/secure-llm-inference-platform)
+🔗 [GitHub Repo](https://github.com/Vic-41148/somn)
 
 ---
 
